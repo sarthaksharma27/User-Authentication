@@ -50,12 +50,6 @@ Follow these steps to get the project up and running on your local machine.
 
 Contributions are welcome! If you have any ideas or suggestions for improvement, please create an issue or submit a pull request.
 
-## Contact
-
-- Mr. Sarthak
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sarthaksharma27/)
-
 Feel free to reach out if you have any questions or feedback!
 ```
 
